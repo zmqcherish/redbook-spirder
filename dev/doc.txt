@@ -1,0 +1,6 @@
+网上找的小红书短链转长 暂时用不上
+url = 'http://api.dwzjh.com/api/reduction?url={}'.format(shortUrl)
+
+GET https://edith.xiaohongshu.com/api/sns/v4/note/user/posted?num=20&page=1&page_size=15&pin_note_id=&use_cursor=1&user_id=5d20bde80000000010013003 HTTP/1.1
+
+小红书hack https://www.qinless.com/100
